@@ -128,6 +128,7 @@ This project provides three purpose-built dashboards to support visualization, v
     - Browse raw satellite imagery grouped by:
       - Fixability Levels: Level 1 (Easy), Level 2 (Moderate), Level 3 (Hard)
       - Quality Types: A (Spatial), B (Simplistic), C (Temporal)  
+    - The brightness of the images displayed is configurable with default set at 1.5
     - Helps users quickly explore the dataset's complexity and labeling challenges.
   - Prompt and Mask Inspection  
     - On-demand visualization of:
